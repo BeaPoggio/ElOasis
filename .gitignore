@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Build
+build/
+bin/
+target/
+*.class
+
+# Datos locales de reservas
+**/reservas.txt
