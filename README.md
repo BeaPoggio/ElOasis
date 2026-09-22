@@ -10,8 +10,6 @@
 
 # 
 
-# 
-
 # \## Tecnologías utilizadas
 
 # 
@@ -88,9 +86,7 @@
 
 # Mi principal área de trabajo fue el backend, especialmente el desarrollo con Java, Servlets y programación orientada a objetos. También participé en la conexión y gestión de la base de datos, el desarrollo de los DAO y la implementación de las operaciones CRUD.
 
-
-
-
+# 
 
 # \## Capturas de la aplicación
 
@@ -138,9 +134,9 @@
 
 # \### Panel de administración
 
+# 
 
-
-# \[Panel de administración](screenshots/panel%20administrado.png)
+# !\[Panel de administración](screenshots/panel%20administrado.png)
 
 # 
 
@@ -149,6 +145,8 @@
 # 
 
 # !\[Creación de productos](screenshots/nuevo%20producto.png)
+
+# 
 
 # \## Equipo
 
